@@ -9,7 +9,7 @@ body {
 }
 
 .bg-toggle{
-    background-color: #C2FFD9 !important;
+    background-color: #064663 !important;
 }
 h1{
     color: rgb(57, 148, 30) !important;
@@ -28,7 +28,7 @@ button{
 }
 
 .main{
-    background-color: #FF4C29;
+    background-color: #316B83;
     height: 100vh;
     display: flex;
     align-items: center;
